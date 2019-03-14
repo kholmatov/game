@@ -1,1 +1,1 @@
-# game
+`php7 ./play.php`
