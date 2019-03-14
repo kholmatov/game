@@ -45,7 +45,7 @@ class Play
         $this->possition += $bone;
 
         if ($this->possition > 100): exit();
-        elseif ($this->possition % 9 == 0): $this->snake($bone);
+        elseif (!($this->possition % 9)): $this->snake($bone);
         elseif (in_array($this->possition, [5, 25])): $this->ladder($bone);
         else: $this->status($bone, $this->possition);
         endif;
