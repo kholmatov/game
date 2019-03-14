@@ -4,7 +4,6 @@
 class Play
 {
     private $possition;
-    private $result;
 
     public function __construct(int $possition = 1)
     {
