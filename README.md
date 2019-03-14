@@ -19,38 +19,38 @@ You must output on a new line each turns dice roll, if they landed on a snake or
 There must be a hyphen to separate the dice roll from the position and snake/ladder verdict
 
 Sample output:<br />
-`5-6`<br />
-`1-7`<br />
-`5-12`<br />
-`3-15`<br />
-`6-21`<br />
-`4-ladder35`<br />
-`3-38`<br />
-`5-43`<br />
-`1-44`<br />
-`5-49`<br />
-`2-51`<br />
-`1-52`<br />
-`5-57`<br />
-`6-snake60`<br />
-`5-65`<br />
-`4-69`<br />
-`2-71`<br />
-`2-73`<br />
-`4-77`<br />
-`3-80`<br />
-`3-83`<br />
-`3-86`<br />
-`1-87`<br />
-`1-88`<br />
-`3-91`<br />
-`3-94`<br />
-`5-snake96`<br />
-`5-96`<br />
-`1-97`<br />
-`5-97`<br />
-`5-97`<br />
-`3-100`
+5-6<br />
+1-7<br />
+5-12<br />
+3-15<br />
+6-21<br />
+4-ladder35<br />
+3-38<br />
+5-43<br />
+1-44<br />
+5-49<br />
+2-51<br />
+1-52<br />
+5-57<br />
+6-snake60<br />
+5-65<br />
+4-69<br />
+2-71<br />
+2-73<br />
+4-77<br />
+3-80<br />
+3-83<br />
+3-86<br />
+1-87<br />
+1-88<br />
+3-91<br />
+3-94<br />
+5-snake96<br />
+5-96<br />
+1-97<br />
+5-97<br />
+5-97<br />
+3-100
 <br/>
 <br/>
 <b>Run Command:</b> `php7 ./play.php`
