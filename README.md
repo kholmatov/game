@@ -53,4 +53,4 @@ Sample output:<br />
 `3-100`
 <br/>
 <br/>
-<b>Run:</b> `php7 ./play.php`
+<b>Run Command:</b> `php7 ./play.php`
