@@ -8,7 +8,6 @@ class Play
     public function __construct(int $possition = 1)
     {
         $this->possition = $possition;
-        $this->run();
     }
 
     private function timer(int $i)
@@ -59,6 +58,5 @@ class Play
     }
 }
 
-(function () {
-    new Play();
-})();
+$play = new Play();
+$play->run();
